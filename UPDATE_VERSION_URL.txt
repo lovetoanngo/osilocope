@@ -1,1 +1,2 @@
-VERSION_TUPLE = (1, 4, 0)
+1.4.1
+https://github.com/lovetoanngo/osilocope/releases/download/v1.4.1/osilo_update.zip
